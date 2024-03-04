@@ -1,5 +1,13 @@
 site_name: Happy Hub Technologies
 site_url: https://happyhub.in
+site_author: Happy Hub Technologies
+
+copyright: Copyright &copy; 2023-2024 Happy Hub Technologies
+
+nav:
+ - Home: index.md
+ - Contact Us: contact.md
+
 theme:
   name: material
   features:
